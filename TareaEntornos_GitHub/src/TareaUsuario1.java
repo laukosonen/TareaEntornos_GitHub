@@ -15,6 +15,7 @@ public class TareaUsuario1 {
             int numero= scanner.nextInt();
             suma+=numero;
         }
+        System.out.println("La suma de los dos números es:"+" "+suma);
     }
 
 
